@@ -1,0 +1,17 @@
+<products catalog="BeerList">
+    <product>
+        <code>P01</code>
+        <name>Heineken</name>
+        <price>19000</price>
+    </product>
+    <product>
+        <code>P02</code>
+        <name>Tiger</name>
+        <price>18000</price>
+    </product>
+    <product>
+        <code>P03</code>
+        <name>Corona Extra</name>
+        <price>22000</price>
+    </product>
+</products>
